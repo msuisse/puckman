@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: walls_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b8b9c5eb1436f9b4fb4902d85edd6c57, type: 3}
+    totalSpriteSurfaceArea: 6000
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7700e5008d394b84ca76d0faf28996ff, type: 3}
+  - {fileID: 21300000, guid: 01ef5a01526f15d45b271feb7fd31741, type: 3}
+  - {fileID: 21300000, guid: 08a0e92204ad0b748ad89dcff12f83c2, type: 3}
+  - {fileID: 21300000, guid: 769870d27465e89479196e72a1bf7a0d, type: 3}
+  - {fileID: 21300000, guid: 69417c1369c6cb84e9112d70cce668c5, type: 3}
+  - {fileID: 21300000, guid: c0b27004281aab149b8e71d22acdbfc1, type: 3}
+  - {fileID: 21300000, guid: e2429c26677fbe3438c8797b1d06a016, type: 3}
+  - {fileID: 21300000, guid: 6a9ffc568807fdc4386f9d5d4f1884ae, type: 3}
+  - {fileID: 21300000, guid: 9000af86c6f8bf34982595bd3d251bcc, type: 3}
+  - {fileID: 21300000, guid: 3981f3884da1a5c40a840468be3de5fc, type: 3}
+  - {fileID: 21300000, guid: 839ed6a90b4d9474f8a0630d86f27f67, type: 3}
+  - {fileID: 21300000, guid: 2630451b5aed7f040ae87b5759db6aa1, type: 3}
+  - {fileID: 21300000, guid: 19df5b2c04b2675408f017aad6778f05, type: 3}
+  - {fileID: 21300000, guid: 6367682ec41dff247ba2f9741183d150, type: 3}
+  - {fileID: 21300000, guid: cc15cd2e56cb41047b84044defb6bf1e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - wall_SN
+  - wall_SE
+  - wall_SEN
+  - wall_E
+  - SEW
+  - wall_S
+  - wall_N
+  - wall_SNW
+  - wall_EN
+  - wall_W
+  - wall_ENW
+  - wall_NW
+  - wall_EW
+  - SW
+  - wall_SENW
+  m_RenderDataMap: {}
+  m_Tag: walls_atlas
+  m_IsVariant: 0
