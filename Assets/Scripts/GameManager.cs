@@ -3,12 +3,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
-{    
-    static public Tilemap walls_map;
+{   
     static public Tilemap pucks_map { get; set; }
-    int game_score;
+    static public Tilemap walls_map;
+
+    int game_score = 0;
+    Text score_text;
 
 
     // Start is called before the first frame update
@@ -17,6 +20,7 @@ public class GameManager : MonoBehaviour
         walls_map = GameObject.FindObjectOfType<WallsTilemap>().GetComponent<Tilemap>();
         pucks_map = GameObject.FindObjectOfType<PucksTilemap>().GetComponent<Tilemap>();
         initGameScores();
+        score_text = GameObject.FindObjectOfType<Canvas>().GetComponentInChildren<Text>();
     }
 
 
@@ -24,14 +28,12 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         initGameScores();
+        Debug.Log(game_score);
 
     }
     private void initGameScores()
     {
-        if (game_score == null)
-        {
-            game_score = 0;
-        }
+        game_score = 0;
     }
 
     public int GetScores()
@@ -43,14 +45,16 @@ public class GameManager : MonoBehaviour
     public void SetScore(int value)
     {
         game_score = value;
+        score_text.text = "Score: " + game_score.ToString();
     }
 
     public void ChangeScore(int amount)
     {
+        
         SetScore(game_score + amount);
     }
 
-    static public void DeletePuckAt(Vector3Int position)
+    public void DeletePuckAt(Vector3Int position)
     {        
         pucks_map.SetTile(position, null);
     }
