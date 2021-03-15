@@ -1,0 +1,7968 @@
+fileFormatVersion: 2
+guid: 10f5d315200cfe549a57835cba8def7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7463258185631862684
+    second: super pacman tileset_0
+  - first:
+      213: -2674802606299962459
+    second: super pacman tileset_1
+  - first:
+      213: 5972752658288071327
+    second: super pacman tileset_2
+  - first:
+      213: 509938659312681625
+    second: super pacman tileset_3
+  - first:
+      213: -5418999476143694446
+    second: super pacman tileset_4
+  - first:
+      213: 4608371532693876522
+    second: super pacman tileset_5
+  - first:
+      213: -2664277417686667020
+    second: super pacman tileset_6
+  - first:
+      213: -2587655305297435036
+    second: super pacman tileset_7
+  - first:
+      213: 5087660395448223503
+    second: super pacman tileset_8
+  - first:
+      213: 8330278987824804570
+    second: super pacman tileset_9
+  - first:
+      213: -4269755721756662682
+    second: super pacman tileset_10
+  - first:
+      213: 3812821603541703876
+    second: super pacman tileset_11
+  - first:
+      213: 7735387509976021905
+    second: super pacman tileset_12
+  - first:
+      213: -7900976019411840546
+    second: super pacman tileset_13
+  - first:
+      213: -1565796547041008130
+    second: super pacman tileset_14
+  - first:
+      213: 200157039833591052
+    second: super pacman tileset_15
+  - first:
+      213: 8300139934208640863
+    second: super pacman tileset_16
+  - first:
+      213: 9022468843877883471
+    second: super pacman tileset_17
+  - first:
+      213: -9145196637456505950
+    second: super pacman tileset_18
+  - first:
+      213: -2640248006484562015
+    second: super pacman tileset_19
+  - first:
+      213: 4803101241625382086
+    second: super pacman tileset_20
+  - first:
+      213: 7326805385420585001
+    second: super pacman tileset_21
+  - first:
+      213: 1861908043875522489
+    second: super pacman tileset_22
+  - first:
+      213: 1201163088852738781
+    second: super pacman tileset_23
+  - first:
+      213: -6486587240678999047
+    second: super pacman tileset_24
+  - first:
+      213: -7741993131241926081
+    second: super pacman tileset_25
+  - first:
+      213: -6892233098026238597
+    second: super pacman tileset_26
+  - first:
+      213: -1763726087206852634
+    second: super pacman tileset_27
+  - first:
+      213: -7642749298235924059
+    second: super pacman tileset_28
+  - first:
+      213: 5112642218533565441
+    second: super pacman tileset_29
+  - first:
+      213: 5133576945684746075
+    second: super pacman tileset_30
+  - first:
+      213: -1987039216662853934
+    second: super pacman tileset_31
+  - first:
+      213: 9113690994027498777
+    second: super pacman tileset_32
+  - first:
+      213: 6695301217627563807
+    second: super pacman tileset_33
+  - first:
+      213: -5108370952156617703
+    second: super pacman tileset_34
+  - first:
+      213: 2166648293978529998
+    second: super pacman tileset_35
+  - first:
+      213: 2798164021821168599
+    second: super pacman tileset_36
+  - first:
+      213: -2187968709102368746
+    second: super pacman tileset_37
+  - first:
+      213: 7718901316698457561
+    second: super pacman tileset_38
+  - first:
+      213: 5307866983616112847
+    second: super pacman tileset_39
+  - first:
+      213: -6192844214712015791
+    second: super pacman tileset_40
+  - first:
+      213: -5555087917727443396
+    second: super pacman tileset_41
+  - first:
+      213: 3982577656902149230
+    second: super pacman tileset_42
+  - first:
+      213: -2645390499430428195
+    second: super pacman tileset_43
+  - first:
+      213: -12712639635948582
+    second: super pacman tileset_44
+  - first:
+      213: 4474616968272693198
+    second: super pacman tileset_45
+  - first:
+      213: -2133053017902963603
+    second: super pacman tileset_46
+  - first:
+      213: 1840933615336005528
+    second: super pacman tileset_47
+  - first:
+      213: -7422751181635255767
+    second: super pacman tileset_48
+  - first:
+      213: 2038528708325697652
+    second: super pacman tileset_49
+  - first:
+      213: 6820422882772807504
+    second: super pacman tileset_50
+  - first:
+      213: 86491616031936510
+    second: super pacman tileset_51
+  - first:
+      213: 5589742919434041140
+    second: super pacman tileset_52
+  - first:
+      213: 361713322027061916
+    second: super pacman tileset_53
+  - first:
+      213: -7691148795780720450
+    second: super pacman tileset_54
+  - first:
+      213: 9205628480173398642
+    second: super pacman tileset_55
+  - first:
+      213: 7756356689613647924
+    second: super pacman tileset_56
+  - first:
+      213: -8411510929888973998
+    second: super pacman tileset_57
+  - first:
+      213: 7716033747567029760
+    second: super pacman tileset_58
+  - first:
+      213: 7659675274607882174
+    second: super pacman tileset_59
+  - first:
+      213: -7118169961072959181
+    second: super pacman tileset_60
+  - first:
+      213: -6528270447944998415
+    second: super pacman tileset_61
+  - first:
+      213: -4755008927806604286
+    second: super pacman tileset_62
+  - first:
+      213: -5921023511423225960
+    second: super pacman tileset_63
+  - first:
+      213: -8397561013212863198
+    second: super pacman tileset_64
+  - first:
+      213: 8846668236187019427
+    second: super pacman tileset_65
+  - first:
+      213: 8131852825810679241
+    second: super pacman tileset_66
+  - first:
+      213: -8332827211743580632
+    second: super pacman tileset_67
+  - first:
+      213: 6890710806275143143
+    second: super pacman tileset_68
+  - first:
+      213: -2250513552739712427
+    second: super pacman tileset_69
+  - first:
+      213: -2388279085175544447
+    second: super pacman tileset_70
+  - first:
+      213: -4189027672001984837
+    second: super pacman tileset_71
+  - first:
+      213: -5477397020476714844
+    second: super pacman tileset_72
+  - first:
+      213: -2599969548512311255
+    second: super pacman tileset_73
+  - first:
+      213: -5872431747871126192
+    second: super pacman tileset_74
+  - first:
+      213: -1474923592696105029
+    second: super pacman tileset_75
+  - first:
+      213: -8804471128350318933
+    second: super pacman tileset_76
+  - first:
+      213: 9161080018410744003
+    second: super pacman tileset_77
+  - first:
+      213: -8779222883425982228
+    second: super pacman tileset_78
+  - first:
+      213: -5923198755437890137
+    second: super pacman tileset_79
+  - first:
+      213: 6080939065843267916
+    second: super pacman tileset_80
+  - first:
+      213: 6075971153957389793
+    second: super pacman tileset_81
+  - first:
+      213: 4051637701683531282
+    second: super pacman tileset_82
+  - first:
+      213: 4960807868021748676
+    second: super pacman tileset_83
+  - first:
+      213: -6371980204722932567
+    second: super pacman tileset_84
+  - first:
+      213: 5711868810234648199
+    second: super pacman tileset_85
+  - first:
+      213: 854618692009783285
+    second: super pacman tileset_86
+  - first:
+      213: 7787118875230549905
+    second: super pacman tileset_87
+  - first:
+      213: -4804781825625074403
+    second: super pacman tileset_88
+  - first:
+      213: -6677392988544369747
+    second: super pacman tileset_89
+  - first:
+      213: -6548665678288561357
+    second: super pacman tileset_90
+  - first:
+      213: 8412662678738717832
+    second: super pacman tileset_91
+  - first:
+      213: 3436109077619367133
+    second: super pacman tileset_92
+  - first:
+      213: 4770807093433882870
+    second: super pacman tileset_93
+  - first:
+      213: 2101906321947018993
+    second: super pacman tileset_94
+  - first:
+      213: 7595721280916792013
+    second: super pacman tileset_95
+  - first:
+      213: 885756575126144057
+    second: super pacman tileset_96
+  - first:
+      213: -1831330854243392837
+    second: super pacman tileset_97
+  - first:
+      213: -2777780819468032930
+    second: super pacman tileset_98
+  - first:
+      213: -616969681223590737
+    second: super pacman tileset_99
+  - first:
+      213: 6968955823767898135
+    second: super pacman tileset_100
+  - first:
+      213: 5733585012640475304
+    second: super pacman tileset_101
+  - first:
+      213: 4305514290630993164
+    second: super pacman tileset_102
+  - first:
+      213: 6122190195027400243
+    second: super pacman tileset_103
+  - first:
+      213: -7842555565208424575
+    second: super pacman tileset_104
+  - first:
+      213: -4761548190639785247
+    second: super pacman tileset_105
+  - first:
+      213: -6121459565716768142
+    second: super pacman tileset_106
+  - first:
+      213: -3377026548631789101
+    second: super pacman tileset_107
+  - first:
+      213: 2184709919210743612
+    second: super pacman tileset_108
+  - first:
+      213: -3730466338392279543
+    second: super pacman tileset_109
+  - first:
+      213: 1363162389498395031
+    second: super pacman tileset_110
+  - first:
+      213: -3500659104081797533
+    second: super pacman tileset_111
+  - first:
+      213: -4308845152690820889
+    second: super pacman tileset_112
+  - first:
+      213: -7196005056496139092
+    second: super pacman tileset_113
+  - first:
+      213: 4414641405899644906
+    second: super pacman tileset_114
+  - first:
+      213: 2870211179694127213
+    second: super pacman tileset_115
+  - first:
+      213: -6129990393106456901
+    second: super pacman tileset_116
+  - first:
+      213: -2619751930515549190
+    second: super pacman tileset_117
+  - first:
+      213: 3378859652145954795
+    second: super pacman tileset_118
+  - first:
+      213: -8933158062498001540
+    second: super pacman tileset_119
+  - first:
+      213: 655274757565333302
+    second: super pacman tileset_120
+  - first:
+      213: 1030268038778803177
+    second: super pacman tileset_121
+  - first:
+      213: -6168711947731587234
+    second: super pacman tileset_122
+  - first:
+      213: 6930032270973863443
+    second: super pacman tileset_123
+  - first:
+      213: -4460491145199538231
+    second: super pacman tileset_124
+  - first:
+      213: 146312607099110960
+    second: super pacman tileset_125
+  - first:
+      213: 4024241684691895638
+    second: super pacman tileset_126
+  - first:
+      213: 4920595713523042105
+    second: super pacman tileset_127
+  - first:
+      213: -7784905133765545518
+    second: super pacman tileset_128
+  - first:
+      213: 1877390445644754932
+    second: super pacman tileset_129
+  - first:
+      213: -2502573465372046571
+    second: super pacman tileset_130
+  - first:
+      213: 843884114026674747
+    second: super pacman tileset_131
+  - first:
+      213: -2715743576768340911
+    second: super pacman tileset_132
+  - first:
+      213: 9104410273754418223
+    second: super pacman tileset_133
+  - first:
+      213: 2288335289392616211
+    second: super pacman tileset_134
+  - first:
+      213: 4171025456950830866
+    second: super pacman tileset_135
+  - first:
+      213: 4678642680181756204
+    second: super pacman tileset_136
+  - first:
+      213: -3246116292031592152
+    second: super pacman tileset_137
+  - first:
+      213: 4235362535884984168
+    second: super pacman tileset_138
+  - first:
+      213: -2073266159701907452
+    second: super pacman tileset_139
+  - first:
+      213: -5394023260406150488
+    second: super pacman tileset_140
+  - first:
+      213: 761079871917218233
+    second: super pacman tileset_141
+  - first:
+      213: -7451199536657937931
+    second: super pacman tileset_142
+  - first:
+      213: 1529558475327832516
+    second: super pacman tileset_143
+  - first:
+      213: -7764982124915776703
+    second: super pacman tileset_144
+  - first:
+      213: -2846953230733449814
+    second: super pacman tileset_145
+  - first:
+      213: 8490663438353149654
+    second: super pacman tileset_146
+  - first:
+      213: -9019413955151097907
+    second: super pacman tileset_147
+  - first:
+      213: -8183838218229965941
+    second: super pacman tileset_148
+  - first:
+      213: -6799891319330592869
+    second: super pacman tileset_149
+  - first:
+      213: 1034741932023834733
+    second: super pacman tileset_150
+  - first:
+      213: 4369330675331180601
+    second: super pacman tileset_151
+  - first:
+      213: 8035309426974379143
+    second: super pacman tileset_152
+  - first:
+      213: 4461915892173722884
+    second: super pacman tileset_153
+  - first:
+      213: 5591305914845298178
+    second: super pacman tileset_154
+  - first:
+      213: 3337336611950898638
+    second: super pacman tileset_155
+  - first:
+      213: 2240476006135866992
+    second: super pacman tileset_156
+  - first:
+      213: -4221658173342612662
+    second: super pacman tileset_157
+  - first:
+      213: -8266775702303044807
+    second: super pacman tileset_158
+  - first:
+      213: -6012913757045111841
+    second: super pacman tileset_159
+  - first:
+      213: -3358227541943316352
+    second: super pacman tileset_160
+  - first:
+      213: -4478899964626514736
+    second: super pacman tileset_161
+  - first:
+      213: 5432161863345200806
+    second: super pacman tileset_162
+  - first:
+      213: 6571684729630976601
+    second: super pacman tileset_163
+  - first:
+      213: -6375349605942691226
+    second: super pacman tileset_164
+  - first:
+      213: -7556430748405703169
+    second: super pacman tileset_165
+  - first:
+      213: 4439286058897747064
+    second: super pacman tileset_166
+  - first:
+      213: 6249588182966186326
+    second: super pacman tileset_167
+  - first:
+      213: 3127865632596736633
+    second: super pacman tileset_168
+  - first:
+      213: -5674157349715388280
+    second: super pacman tileset_169
+  - first:
+      213: 8832506686779502356
+    second: super pacman tileset_170
+  - first:
+      213: -8128761018298600127
+    second: super pacman tileset_171
+  - first:
+      213: -4017305453272103732
+    second: super pacman tileset_172
+  - first:
+      213: -9110268546891894778
+    second: super pacman tileset_173
+  - first:
+      213: -8043692750565905414
+    second: super pacman tileset_174
+  - first:
+      213: 518070165973919525
+    second: super pacman tileset_175
+  - first:
+      213: 2984639320752710098
+    second: super pacman tileset_176
+  - first:
+      213: 2501514154958285503
+    second: super pacman tileset_177
+  - first:
+      213: -331314082252082324
+    second: super pacman tileset_178
+  - first:
+      213: 6725091642279307034
+    second: super pacman tileset_179
+  - first:
+      213: -5719541858011272210
+    second: super pacman tileset_180
+  - first:
+      213: 7191826016473029361
+    second: super pacman tileset_181
+  - first:
+      213: 822226809650781125
+    second: super pacman tileset_182
+  - first:
+      213: 8762758535962714806
+    second: super pacman tileset_183
+  - first:
+      213: 1201229818527557778
+    second: super pacman tileset_184
+  - first:
+      213: -7630945004470922703
+    second: super pacman tileset_185
+  - first:
+      213: -4558123674707169514
+    second: super pacman tileset_186
+  - first:
+      213: 7014651077606389590
+    second: super pacman tileset_187
+  - first:
+      213: -8459368433594943670
+    second: super pacman tileset_188
+  - first:
+      213: -4312784361665237122
+    second: super pacman tileset_189
+  - first:
+      213: -8753032924247995275
+    second: super pacman tileset_190
+  - first:
+      213: 8260501604446010320
+    second: super pacman tileset_191
+  - first:
+      213: -6853025283486848094
+    second: super pacman tileset_192
+  - first:
+      213: -7782838429083724176
+    second: super pacman tileset_193
+  - first:
+      213: -3202421198116492129
+    second: super pacman tileset_194
+  - first:
+      213: 8245232203058592086
+    second: super pacman tileset_195
+  - first:
+      213: -5046767800422638976
+    second: super pacman tileset_196
+  - first:
+      213: -2572140678450466545
+    second: super pacman tileset_197
+  - first:
+      213: -2669681516285369567
+    second: super pacman tileset_198
+  - first:
+      213: 8075452587072040749
+    second: super pacman tileset_199
+  - first:
+      213: 4680837232107486499
+    second: super pacman tileset_200
+  - first:
+      213: -1882322164818221492
+    second: super pacman tileset_201
+  - first:
+      213: -994066001699088644
+    second: super pacman tileset_202
+  - first:
+      213: -7510721703025056564
+    second: super pacman tileset_203
+  - first:
+      213: -4745666205062744290
+    second: super pacman tileset_204
+  - first:
+      213: 4213978192334875463
+    second: super pacman tileset_205
+  - first:
+      213: 722040614032532841
+    second: super pacman tileset_206
+  - first:
+      213: 8567177279166265006
+    second: super pacman tileset_207
+  - first:
+      213: -5975906071882407903
+    second: super pacman tileset_208
+  - first:
+      213: -792111616078792991
+    second: super pacman tileset_209
+  - first:
+      213: 2527002088463054270
+    second: super pacman tileset_210
+  - first:
+      213: -635287149188505747
+    second: super pacman tileset_211
+  - first:
+      213: 5363481045782821804
+    second: super pacman tileset_212
+  - first:
+      213: -5048681364108361081
+    second: super pacman tileset_213
+  - first:
+      213: 3489119437037081712
+    second: super pacman tileset_214
+  - first:
+      213: 3129400492826483540
+    second: super pacman tileset_215
+  - first:
+      213: 56688847549771828
+    second: super pacman tileset_216
+  - first:
+      213: -5272326636155091578
+    second: super pacman tileset_217
+  - first:
+      213: 2175289477753905351
+    second: super pacman tileset_218
+  - first:
+      213: 486812575041419725
+    second: super pacman tileset_219
+  - first:
+      213: 1551096353781555245
+    second: super pacman tileset_220
+  - first:
+      213: -5705874988886989854
+    second: super pacman tileset_221
+  - first:
+      213: -880061967557386116
+    second: super pacman tileset_222
+  - first:
+      213: 3221280819076323357
+    second: super pacman tileset_223
+  - first:
+      213: -7713195839080707992
+    second: super pacman tileset_224
+  - first:
+      213: 5287100416770132522
+    second: super pacman tileset_225
+  - first:
+      213: 8537004091256363071
+    second: super pacman tileset_226
+  - first:
+      213: 5105119179855111433
+    second: super pacman tileset_227
+  - first:
+      213: 7820672309532068368
+    second: super pacman tileset_228
+  - first:
+      213: 6706422639116908401
+    second: super pacman tileset_229
+  - first:
+      213: 3833216503661640534
+    second: super pacman tileset_230
+  - first:
+      213: -6304967825870959097
+    second: super pacman tileset_231
+  - first:
+      213: 490610119467982312
+    second: super pacman tileset_232
+  - first:
+      213: -9151005697459448921
+    second: super pacman tileset_233
+  - first:
+      213: -623178155612019389
+    second: super pacman tileset_234
+  - first:
+      213: 3388691079859349645
+    second: super pacman tileset_235
+  - first:
+      213: -6363069778838177023
+    second: super pacman tileset_236
+  - first:
+      213: 2918942862559355888
+    second: super pacman tileset_237
+  - first:
+      213: -7314676304530093977
+    second: super pacman tileset_238
+  - first:
+      213: 769643910835219988
+    second: super pacman tileset_239
+  - first:
+      213: -1392559914056518754
+    second: super pacman tileset_240
+  - first:
+      213: 2304179150973704262
+    second: super pacman tileset_241
+  - first:
+      213: 585800467934947389
+    second: super pacman tileset_242
+  - first:
+      213: -2667052029438691516
+    second: super pacman tileset_243
+  - first:
+      213: -249763275023096037
+    second: super pacman tileset_244
+  - first:
+      213: 836652347773368333
+    second: super pacman tileset_245
+  - first:
+      213: 7635542195400498530
+    second: super pacman tileset_246
+  - first:
+      213: -1230922057682109861
+    second: super pacman tileset_247
+  - first:
+      213: -8402413342814399486
+    second: super pacman tileset_248
+  - first:
+      213: 6903405224763824041
+    second: super pacman tileset_249
+  - first:
+      213: -5048235290843766692
+    second: super pacman tileset_250
+  - first:
+      213: -6964527440357663317
+    second: super pacman tileset_251
+  - first:
+      213: 810732949071532575
+    second: super pacman tileset_252
+  - first:
+      213: -5447450162788242192
+    second: super pacman tileset_253
+  - first:
+      213: 3646524222273188520
+    second: super pacman tileset_254
+  - first:
+      213: 797013608208995343
+    second: super pacman tileset_255
+  - first:
+      213: -3636995719741714471
+    second: super pacman tileset_256
+  - first:
+      213: -5330483076611581813
+    second: super pacman tileset_257
+  - first:
+      213: -400020258328484948
+    second: super pacman tileset_258
+  - first:
+      213: 2744533723453328300
+    second: super pacman tileset_259
+  - first:
+      213: 3486634354769938048
+    second: super pacman tileset_260
+  - first:
+      213: -3147271969280470601
+    second: super pacman tileset_261
+  - first:
+      213: 5204923359589546732
+    second: super pacman tileset_262
+  - first:
+      213: -5247443965034867650
+    second: super pacman tileset_263
+  - first:
+      213: -568142421226136701
+    second: super pacman tileset_264
+  - first:
+      213: -8032383066201252236
+    second: super pacman tileset_265
+  - first:
+      213: 9073640652894669839
+    second: super pacman tileset_266
+  - first:
+      213: -4024059914293521142
+    second: super pacman tileset_267
+  - first:
+      213: -1704153052496319255
+    second: super pacman tileset_268
+  - first:
+      213: -5148365128866919081
+    second: super pacman tileset_269
+  - first:
+      213: -2796601937939278386
+    second: super pacman tileset_270
+  - first:
+      213: 9197245722153527080
+    second: super pacman tileset_271
+  - first:
+      213: -277497748400179933
+    second: super pacman tileset_272
+  - first:
+      213: 6701947321624855667
+    second: super pacman tileset_273
+  - first:
+      213: -1989319537305428980
+    second: super pacman tileset_274
+  - first:
+      213: 7254342601001276612
+    second: super pacman tileset_275
+  - first:
+      213: 544845158632385053
+    second: super pacman tileset_276
+  - first:
+      213: 7960834015038598676
+    second: super pacman tileset_277
+  - first:
+      213: -5596246567567890016
+    second: super pacman tileset_278
+  - first:
+      213: -3952475636143945464
+    second: super pacman tileset_279
+  - first:
+      213: 7509046708251369267
+    second: super pacman tileset_280
+  - first:
+      213: -1845273596184176616
+    second: super pacman tileset_281
+  - first:
+      213: -7310624976631333144
+    second: super pacman tileset_282
+  - first:
+      213: 4895191442325258402
+    second: super pacman tileset_283
+  - first:
+      213: -6926979504834830553
+    second: super pacman tileset_284
+  - first:
+      213: 5022018955724470638
+    second: super pacman tileset_285
+  - first:
+      213: 1135464605718289773
+    second: super pacman tileset_286
+  - first:
+      213: 3889493089597412310
+    second: super pacman tileset_287
+  - first:
+      213: -6174510139219211944
+    second: super pacman tileset_288
+  - first:
+      213: -8199940422406436304
+    second: super pacman tileset_289
+  - first:
+      213: 1239456327888252077
+    second: super pacman tileset_290
+  - first:
+      213: 6949741806277800992
+    second: super pacman tileset_291
+  - first:
+      213: 245708130476579077
+    second: super pacman tileset_292
+  - first:
+      213: 7849657226963161143
+    second: super pacman tileset_293
+  - first:
+      213: 5720547457569983098
+    second: super pacman tileset_294
+  - first:
+      213: 3904315716303342383
+    second: super pacman tileset_295
+  - first:
+      213: -4209983457377500226
+    second: super pacman tileset_296
+  - first:
+      213: 1334298451979143548
+    second: super pacman tileset_297
+  - first:
+      213: 8333357876077619640
+    second: super pacman tileset_298
+  - first:
+      213: -4637665530488931147
+    second: super pacman tileset_299
+  - first:
+      213: -6865579705342365554
+    second: super pacman tileset_300
+  - first:
+      213: 6381473955998858181
+    second: super pacman tileset_301
+  - first:
+      213: 781357510541098788
+    second: super pacman tileset_302
+  - first:
+      213: -3002196839861954516
+    second: super pacman tileset_303
+  - first:
+      213: -3693832306072286955
+    second: super pacman tileset_304
+  - first:
+      213: 4910941857445292072
+    second: super pacman tileset_305
+  - first:
+      213: -7648188247428613635
+    second: super pacman tileset_306
+  - first:
+      213: -5865813613791200207
+    second: super pacman tileset_307
+  - first:
+      213: 5923012026364945347
+    second: super pacman tileset_308
+  - first:
+      213: 7455608359667562272
+    second: super pacman tileset_309
+  - first:
+      213: 2871422671318979988
+    second: super pacman tileset_310
+  - first:
+      213: -7722029484578491324
+    second: super pacman tileset_311
+  - first:
+      213: -2402823645140427334
+    second: super pacman tileset_312
+  - first:
+      213: 2502570742283969818
+    second: super pacman tileset_313
+  - first:
+      213: -908141658712866823
+    second: super pacman tileset_314
+  - first:
+      213: -6358280008200987385
+    second: super pacman tileset_315
+  - first:
+      213: 6912965761763181827
+    second: super pacman tileset_316
+  - first:
+      213: 247619742861803568
+    second: super pacman tileset_317
+  - first:
+      213: -4932245764610863650
+    second: super pacman tileset_318
+  - first:
+      213: -4416186275894691771
+    second: super pacman tileset_319
+  - first:
+      213: -5276121252296015488
+    second: super pacman tileset_320
+  - first:
+      213: 2011434847612111814
+    second: super pacman tileset_321
+  - first:
+      213: 1326270427094772602
+    second: super pacman tileset_322
+  - first:
+      213: -4381192747675279598
+    second: super pacman tileset_323
+  - first:
+      213: 3805112029799986660
+    second: super pacman tileset_324
+  - first:
+      213: -929714731148039266
+    second: super pacman tileset_325
+  - first:
+      213: -6490257776826539480
+    second: super pacman tileset_326
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: super pacman tileset_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460f262e83e2d6890800000000000000
+      internalID: -7463258185631862684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3a337833131ead0800000000000000
+      internalID: -2674802606299962459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92d780d5ea73e250800000000000000
+      internalID: 5972752658288071327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9924295428aa31700800000000000000
+      internalID: 509938659312681625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_4
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d5d6200b8dbc4b0800000000000000
+      internalID: -5418999476143694446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fad372e7934ff30800000000000000
+      internalID: 4608371532693876522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0f0b7fdc5960bd0800000000000000
+      internalID: -2664277417686667020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4666796b53dc61cd0800000000000000
+      internalID: -2587655305297435036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07c3809c200b9640800000000000000
+      internalID: 5087660395448223503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2b23d8a981b9370800000000000000
+      internalID: 8330278987824804570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664a00f0bc7ceb4c0800000000000000
+      internalID: -4269755721756662682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccd9071c0dd9e430800000000000000
+      internalID: 3812821603541703876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_12
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b3d1cd4fd995b60800000000000000
+      internalID: 7735387509976021905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1d318eb281a5290800000000000000
+      internalID: -7900976019411840546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5661f165c254ae0800000000000000
+      internalID: -1565796547041008130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d239a64c917c200800000000000000
+      internalID: 200157039833591052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f574a8c4b45003370800000000000000
+      internalID: 8300139934208640863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_17
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ede544c9f363d70800000000000000
+      internalID: 9022468843877883471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_18
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3ee4f8c1cb51180800000000000000
+      internalID: -9145196637456505950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_19
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afed8e3d64fb5bd0800000000000000
+      internalID: -2640248006484562015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_20
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc815f912b08a240800000000000000
+      internalID: 4803101241625382086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_21
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928b960ddaa0ea560800000000000000
+      internalID: 7326805385420585001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_22
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b794a74083d6d910800000000000000
+      internalID: 1861908043875522489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_23
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2e06c17736ba010800000000000000
+      internalID: 1201163088852738781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_24
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb3fb2a5430bf5a0800000000000000
+      internalID: -6486587240678999047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f329fc6144aee8490800000000000000
+      internalID: -7741993131241926081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_26
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7db4f2938ed950a0800000000000000
+      internalID: -6892233098026238597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_27
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e722f2e77cf587e0800000000000000
+      internalID: -1763726087206852634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_28
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1284b91008fe590800000000000000
+      internalID: -7642749298235924059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_29
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104bb538201c3f640800000000000000
+      internalID: 5112642218533565441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_30
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f8ca288012e3740800000000000000
+      internalID: 5133576945684746075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_31
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d64a083c5e9c64e0800000000000000
+      internalID: -1987039216662853934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_32
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d8fa33ca55a7e70800000000000000
+      internalID: 9113690994027498777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f176ee4fbfc7aec50800000000000000
+      internalID: 6695301217627563807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914e7cf2fab6b19b0800000000000000
+      internalID: -5108370952156617703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0ebcbd42b711e10800000000000000
+      internalID: 2166648293978529998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_36
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbddef3a5315d620800000000000000
+      internalID: 2798164021821168599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_37
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618884a2d06c2a1e0800000000000000
+      internalID: -2187968709102368746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_38
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d54b1ed9db0f1b60800000000000000
+      internalID: 7718901316698457561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_39
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8667936e459a940800000000000000
+      internalID: 5307866983616112847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_40
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154e1c07ff89e0aa0800000000000000
+      internalID: -6192844214712015791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_41
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c369acf88fc58e2b0800000000000000
+      internalID: -5555087917727443396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_42
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e646f024745f44730800000000000000
+      internalID: 3982577656902149230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_43
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1914d4b5fa94bd0800000000000000
+      internalID: -2645390499430428195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb775eebe5d2dff0800000000000000
+      internalID: -12712639635948582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_45
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec744d3dc68091e30800000000000000
+      internalID: 4474616968272693198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_46
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64a1d4e49fd562e0800000000000000
+      internalID: -2133053017902963603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_47
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f9d259e5f4c8910800000000000000
+      internalID: 1840933615336005528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_48
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9220582b0271df890800000000000000
+      internalID: -7422751181635255767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_49
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47860344f0f4a4c10800000000000000
+      internalID: 2038528708325697652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_50
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f6e99c97207ae50800000000000000
+      internalID: 6820422882772807504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_51
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff02a1aaa7433100800000000000000
+      internalID: 86491616031936510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_52
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 219
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437fe9ac191c29d40800000000000000
+      internalID: 5589742919434041140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_53
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 219
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9213f59950150500800000000000000
+      internalID: 361713322027061916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_54
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 219
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb811d07bec834590800000000000000
+      internalID: -7691148795780720450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_55
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 219
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a54f64456f0cf70800000000000000
+      internalID: 9205628480173398642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 219
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43075a3705d14ab60800000000000000
+      internalID: 7756356689613647924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_57
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 219
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25be6a7106f444b80800000000000000
+      internalID: -8411510929888973998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_58
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 219
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ea8a6efcbd41b60800000000000000
+      internalID: 7716033747567029760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_59
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 219
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf68dd5412ac4a60800000000000000
+      internalID: 7659675274607882174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331e363522e273d90800000000000000
+      internalID: -7118169961072959181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_61
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 183
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1ee88ad9ce665a0800000000000000
+      internalID: -6528270447944998415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_62
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 183
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cb642c290d20eb0800000000000000
+      internalID: -4755008927806604286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_63
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fe1eebc7c44dda0800000000000000
+      internalID: -5921023511423225960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_64
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22527cb20ced57b80800000000000000
+      internalID: -8397561013212863198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_65
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8a8af93eda5ca70800000000000000
+      internalID: 8846668236187019427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_66
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5b3388f052ad070800000000000000
+      internalID: 8131852825810679241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ea055dcc9db5c80800000000000000
+      internalID: -8332827211743580632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_68
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5b9f148f8b0af50800000000000000
+      internalID: 6890710806275143143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_69
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5524fb6f8d194c0e0800000000000000
+      internalID: -2250513552739712427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_70
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185ed9f53d02bded0800000000000000
+      internalID: -2388279085175544447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 202
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb64a08d6859dd5c0800000000000000
+      internalID: -4189027672001984837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_72
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 202
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0d3bc2e606cf3b0800000000000000
+      internalID: -5477397020476714844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_73
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 202
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928471a887d0bebd0800000000000000
+      internalID: -2599969548512311255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_74
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 202
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d4a64507ee08ea0800000000000000
+      internalID: -5872431747871126192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_75
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 202
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb771829ec4088be0800000000000000
+      internalID: -1474923592696105029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_76
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 202
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae1f77282c30d580800000000000000
+      internalID: -8804471128350318933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_77
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 202
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c82d404db1b22f70800000000000000
+      internalID: 9161080018410744003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_78
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 202
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8e9654d4fe92680800000000000000
+      internalID: -8779222883425982228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_79
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5b6184d129ccda0800000000000000
+      internalID: -5923198755437890137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_80
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c493268bcd5d36450800000000000000
+      internalID: 6080939065843267916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_81
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e58629929f225450800000000000000
+      internalID: 6075971153957389793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_82
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e4d6fe50f4a3830800000000000000
+      internalID: 4051637701683531282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_83
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c33664f87458d440800000000000000
+      internalID: 4960807868021748676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_84
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a43ba593cd2297a0800000000000000
+      internalID: -6371980204722932567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_85
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7865bad8b62a44f40800000000000000
+      internalID: 5711868810234648199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_86
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffe6a32c273cdb00800000000000000
+      internalID: 854618692009783285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_87
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1973bddeb57611c60800000000000000
+      internalID: 7787118875230549905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_88
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d155d5ce26cf15db0800000000000000
+      internalID: -4804781825625074403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_89
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabf02c84722553a0800000000000000
+      internalID: -6677392988544369747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_90
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b51dc03477e15a0800000000000000
+      internalID: -6548665678288561357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_91
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c48655228cfb470800000000000000
+      internalID: 8412662678738717832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_92
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc5ff430038faf20800000000000000
+      internalID: 3436109077619367133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_93
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f85a0056cf453240800000000000000
+      internalID: 4770807093433882870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_94
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6ccc6d9a87b2d10800000000000000
+      internalID: 2101906321947018993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_95
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2abe9d24c696960800000000000000
+      internalID: 7595721280916792013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_96
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9344cd189e6da4c00800000000000000
+      internalID: 885756575126144057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_97
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb22c967a4ec596e0800000000000000
+      internalID: -1831330854243392837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_98
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54e6bfdf075379d0800000000000000
+      internalID: -2777780819468032930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_99
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac5b7108551077f0800000000000000
+      internalID: -616969681223590737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_100
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718431b0664b6b060800000000000000
+      internalID: 6968955823767898135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_101
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a860ffe039c19f40800000000000000
+      internalID: 5733585012640475304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_102
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05ad6c8f6240cb30800000000000000
+      internalID: 4305514290630993164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_103
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336dcfdab8366f450800000000000000
+      internalID: 6122190195027400243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_104
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f2d7cd345a92390800000000000000
+      internalID: -7842555565208424575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_105
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaf20cf5259bedb0800000000000000
+      internalID: -4761548190639785247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_106
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27af88635f43c0ba0800000000000000
+      internalID: -6121459565716768142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_107
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d12dbb0f346221d0800000000000000
+      internalID: -3377026548631789101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_108
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3724dfa816a15e10800000000000000
+      internalID: 2184709919210743612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_109
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906739d41a8ba3cc0800000000000000
+      internalID: -3730466338392279543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_110
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799793d88fceae210800000000000000
+      internalID: 1363162389498395031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_111
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e977597192b6fc0800000000000000
+      internalID: -3500659104081797533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_112
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e823b1b928e334c0800000000000000
+      internalID: -4308845152690820889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_113
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca402a5f687a22c90800000000000000
+      internalID: -7196005056496139092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_114
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef116908f4f34d30800000000000000
+      internalID: 4414641405899644906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_115
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68f5046cd905d720800000000000000
+      internalID: 2870211179694127213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_116
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe155e2736edeaa0800000000000000
+      internalID: -6129990393106456901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_117
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af31afdcf75c4abd0800000000000000
+      internalID: -2619751930515549190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_118
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef3f00a3fe14ee20800000000000000
+      internalID: 3378859652145954795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_119
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dc362721c070480800000000000000
+      internalID: -8933158062498001540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_120
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f36f29be0081900800000000000000
+      internalID: 655274757565333302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_121
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e359da925f3c4e00800000000000000
+      internalID: 1030268038778803177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_122
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f20c1ba25546aa0800000000000000
+      internalID: -6168711947731587234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_123
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316046132ab6c2060800000000000000
+      internalID: 6930032270973863443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_124
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf2b96afe62912c0800000000000000
+      internalID: -4460491145199538231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_125
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036cd4c7a8ec70200800000000000000
+      internalID: 146312607099110960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_126
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655416aad7af8d730800000000000000
+      internalID: 4024241684691895638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_127
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937c9d32bb7794440800000000000000
+      internalID: 4920595713523042105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_128
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d13acbe60676f390800000000000000
+      internalID: -7784905133765545518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_129
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff2e59d9a4dd0a10800000000000000
+      internalID: 1877390445644754932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_130
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b4e2441b2154dd0800000000000000
+      internalID: -2502573465372046571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_131
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ab720712416bb00800000000000000
+      internalID: 843884114026674747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_132
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c9ca50b9dbf4ad0800000000000000
+      internalID: -2715743576768340911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_133
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c8c8028ec595e70800000000000000
+      internalID: 9104410273754418223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_134
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313dc3352dcc1cf10800000000000000
+      internalID: 2288335289392616211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_135
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2176aa6dd8572e930800000000000000
+      internalID: 4171025456950830866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_136
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c211737aab0ede040800000000000000
+      internalID: 4678642680181756204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_137
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82949d95e6a73f2d0800000000000000
+      internalID: -3246116292031592152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_138
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f0c6659c707ca30800000000000000
+      internalID: 4235362535884984168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_139
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408212299674a33e0800000000000000
+      internalID: -2073266159701907452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_140
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa0c456c649425b0800000000000000
+      internalID: -5394023260406150488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_141
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b953537c16ef8a00800000000000000
+      internalID: 761079871917218233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_142
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9c2f2ef75089890800000000000000
+      internalID: -7451199536657937931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_143
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c18a1154551a3510800000000000000
+      internalID: 1529558475327832516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_144
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1432325e5ed3d3490800000000000000
+      internalID: -7764982124915776703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_145
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa56bf5de179d78d0800000000000000
+      internalID: -2846953230733449814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_146
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deaf666965e4d570800000000000000
+      internalID: 8490663438353149654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_147
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf84017bca94d280800000000000000
+      internalID: -9019413955151097907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_148
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b1327108a2d6e80800000000000000
+      internalID: -8183838218229965941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_149
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97a9085fdee1a1a0800000000000000
+      internalID: -6799891319330592869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_150
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d686b7c0e442c5e00800000000000000
+      internalID: 1034741932023834733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_151
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9382559791bf2ac30800000000000000
+      internalID: 4369330675331180601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_152
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cc727d957238f60800000000000000
+      internalID: 8035309426974379143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_153
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4055faa1dd8ebed30800000000000000
+      internalID: 4461915892173722884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_154
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ef4e40b1f489d40800000000000000
+      internalID: 5591305914845298178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_155
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd2d3377f9905e20800000000000000
+      internalID: 3337336611950898638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_156
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076a3899e05c71f10800000000000000
+      internalID: 2240476006135866992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_157
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a430ac63248a965c0800000000000000
+      internalID: -4221658173342612662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_158
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b856a4c43864d80800000000000000
+      internalID: -8266775702303044807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_159
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd34446bbc6dd8ca0800000000000000
+      internalID: -6012913757045111841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_160
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080198fd7dd2561d0800000000000000
+      internalID: -3358227541943316352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_161
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc4def5630c7d1c0800000000000000
+      internalID: -4478899964626514736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_162
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae5d131f6ae26b40800000000000000
+      internalID: 5432161863345200806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_163
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a638d7170533b50800000000000000
+      internalID: 6571684729630976601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_164
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66afbdabf453687a0800000000000000
+      internalID: -6375349605942691226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_165
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd507f154a222790800000000000000
+      internalID: -7556430748405703169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_166
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ca1f476238b9d30800000000000000
+      internalID: 4439286058897747064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_167
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651bd26375ffab650800000000000000
+      internalID: 6249588182966186326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_168
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ab4108839686b20800000000000000
+      internalID: 3127865632596736633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_169
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888da8214f75141b0800000000000000
+      internalID: -5674157349715388280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_170
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f21c5f80e539a70800000000000000
+      internalID: 8832506686779502356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_171
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145f4400ce6d03f80800000000000000
+      internalID: -8128761018298600127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_172
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc40a7f89f9af38c0800000000000000
+      internalID: -4017305453272103732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_173
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600381e5603d19180800000000000000
+      internalID: -9110268546891894778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_174
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb62288f001f5090800000000000000
+      internalID: -8043692750565905414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_175
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5276a93321e803700800000000000000
+      internalID: 518070165973919525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_176
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1e02026a19b6920800000000000000
+      internalID: 2984639320752710098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_177
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba66eeced927b220800000000000000
+      internalID: 2501514154958285503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_178
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63b74af89fe66bf0800000000000000
+      internalID: -331314082252082324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_179
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17a104b733545d50800000000000000
+      internalID: 6725091642279307034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_180
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeba24bcbfa10a0b0800000000000000
+      internalID: -5719541858011272210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_181
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa994678af7ec360800000000000000
+      internalID: 7191826016473029361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_182
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb99025de2296b00800000000000000
+      internalID: 822226809650781125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_183
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2649c16729b9970800000000000000
+      internalID: 8762758535962714806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_184
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29821f2d720aba010800000000000000
+      internalID: 1201229818527557778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_185
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13218fbe2ff691690800000000000000
+      internalID: -7630945004470922703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_186
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fe7c6faaa4eb0c0800000000000000
+      internalID: -4558123674707169514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_187
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6573a086dfb095160800000000000000
+      internalID: 7014651077606389590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_188
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47bb63ba394a9a80800000000000000
+      internalID: -8459368433594943670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_189
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f65122979e524c0800000000000000
+      internalID: -4312784361665237122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_190
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c46e25eeaf68680800000000000000
+      internalID: -8753032924247995275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_191
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db7c87717233a270800000000000000
+      internalID: 8260501604446010320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_192
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abeef440d925e0a0800000000000000
+      internalID: -6853025283486848094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_193
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076943a1fadcdf390800000000000000
+      internalID: -7782838429083724176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_194
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ce51133e6be83d0800000000000000
+      internalID: -3202421198116492129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_195
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6593be9e003fc6270800000000000000
+      internalID: 8245232203058592086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_196
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08adde7ac6746f9b0800000000000000
+      internalID: -5046767800422638976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_197
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01b0a44eabed4cd0800000000000000
+      internalID: -2572140678450466545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_198
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12362663ec263fad0800000000000000
+      internalID: -2669681516285369567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_199
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f20f4a755c11070800000000000000
+      internalID: 8075452587072040749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_200
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d703799aca5f040800000000000000
+      internalID: 4680837232107486499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_201
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c466a2dc6f5a0e5e0800000000000000
+      internalID: -1882322164818221492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_202
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6de6dfc3e5432f0800000000000000
+      internalID: -994066001699088644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_203
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4ef54976e84c790800000000000000
+      internalID: -7510721703025056564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_204
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17b8a8eab1042eb0800000000000000
+      internalID: -4745666205062744290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_205
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bec5dd6de0b7a30800000000000000
+      internalID: 4213978192334875463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_206
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96560d8ec14350a00800000000000000
+      internalID: 722040614032532841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_207
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6b084385ab4e670800000000000000
+      internalID: 8567177279166265006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_208
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120695ed611511da0800000000000000
+      internalID: -5975906071882407903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_209
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6b9259eaad105f0800000000000000
+      internalID: -792111616078792991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_210
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5b285c207b11320800000000000000
+      internalID: 2527002088463054270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_211
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f9f3624b10f27f0800000000000000
+      internalID: -635287149188505747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_212
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabfc6d1899ee6a40800000000000000
+      internalID: 5363481045782821804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_213
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782cf246c0b7fe9b0800000000000000
+      internalID: -5048681364108361081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_214
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074918f44a7db6030800000000000000
+      internalID: 3489119437037081712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_215
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bdadefa2ddd6b20800000000000000
+      internalID: 3129400492826483540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_216
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4303eecd43669c000800000000000000
+      internalID: 56688847549771828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_217
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6854520cbdee4d6b0800000000000000
+      internalID: -5272326636155091578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_218
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0aa2d314e203e10800000000000000
+      internalID: 2175289477753905351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_219
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9798f257181c600800000000000000
+      internalID: 486812575041419725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_220
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20ad8b6ae9968510800000000000000
+      internalID: 1551096353781555245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_221
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3ea9abde8a0d0b0800000000000000
+      internalID: -5705874988886989854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_222
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c702963ad4469c3f0800000000000000
+      internalID: -880061967557386116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_223
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18d2de76d944bc20800000000000000
+      internalID: 3221280819076323357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_224
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868c298204935f490800000000000000
+      internalID: -7713195839080707992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_225
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a476911dd8f5940800000000000000
+      internalID: 5287100416770132522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_226
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3854617df7897670800000000000000
+      internalID: 8537004091256363071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_227
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9052c4398d609d640800000000000000
+      internalID: 5105119179855111433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_228
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a8462a70c988c60800000000000000
+      internalID: 7820672309532068368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_229
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177733eabdff11d50800000000000000
+      internalID: 6706422639116908401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_230
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bbaefc912523530800000000000000
+      internalID: 3833216503661640534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_231
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ec1b2ea214088a0800000000000000
+      internalID: -6304967825870959097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_232
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edd916ed4ffec600800000000000000
+      internalID: 490610119467982312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_233
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a39a516dc8110180800000000000000
+      internalID: -9151005697459448921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_234
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34566fae4c60a57f0800000000000000
+      internalID: -623178155612019389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_235
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d882d84459c070f20800000000000000
+      internalID: 3388691079859349645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_236
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bb357cfb5d1b7a0800000000000000
+      internalID: -6363069778838177023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_237
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3238a711b228820800000000000000
+      internalID: 2918942862559355888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_238
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7684485e7ac0d7a90800000000000000
+      internalID: -7314676304530093977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_239
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e20e42f035eaa00800000000000000
+      internalID: 769643910835219988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_240
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e937632e222acace0800000000000000
+      internalID: -1392559914056518754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_241
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64816a0dab61aff10800000000000000
+      internalID: 2304179150973704262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_242
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3825800c6e212800800000000000000
+      internalID: 585800467934947389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_243
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44772d35f4abcfad0800000000000000
+      internalID: -2667052029438691516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_244
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b176f4aef99a88cf0800000000000000
+      internalID: -249763275023096037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_245
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d083785a0e26c9b00800000000000000
+      internalID: 836652347773368333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_246
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d5a500c25e6f960800000000000000
+      internalID: 7635542195400498530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_247
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a3aa509e2eaeee0800000000000000
+      internalID: -1230922057682109861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_248
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2049b852591a46b80800000000000000
+      internalID: -8402413342814399486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_249
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a79f92e972ddcf50800000000000000
+      internalID: 6903405224763824041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_250
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50aaaaefb011f9b0800000000000000
+      internalID: -5048235290843766692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_251
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad55015137095f90800000000000000
+      internalID: -6964527440357663317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_252
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f121d1d525d404b00800000000000000
+      internalID: 810732949071532575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_253
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcec5350f4c664b0800000000000000
+      internalID: -5447450162788242192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_254
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a27375c57e0b9230800000000000000
+      internalID: 3646524222273188520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_255
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04137667af8f0b00800000000000000
+      internalID: 797013608208995343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_256
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfcd2b99abc68dc0800000000000000
+      internalID: -3636995719741714471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_257
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88d55942e15606b0800000000000000
+      internalID: -5330483076611581813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_258
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3ee57c1b7d27af0800000000000000
+      internalID: -400020258328484948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_259
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab048c51ea861620800000000000000
+      internalID: 2744533723453328300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_260
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0864cb10973036030800000000000000
+      internalID: 3486634354769938048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_261
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b15e73a1d4a254d0800000000000000
+      internalID: -3147271969280470601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_262
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceab77bf73a9b3840800000000000000
+      internalID: 5204923359589546732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_263
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34545514855d27b0800000000000000
+      internalID: -5247443965034867650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_264
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b5cf06a7d8d18f0800000000000000
+      internalID: -568142421226136701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_265
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e163f982e378090800000000000000
+      internalID: -8032383066201252236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_266
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c845f791c0ced70800000000000000
+      internalID: 9073640652894669839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_267
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0555ad04daa728c0800000000000000
+      internalID: -4024059914293521142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_268
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec2f07e3d1a958e0800000000000000
+      internalID: -1704153052496319255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_269
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d01e741355d88b0800000000000000
+      internalID: -5148365128866919081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_270
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5d5feba597039d0800000000000000
+      internalID: -2796601937939278386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_271
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82721f4514e23af70800000000000000
+      internalID: 9197245722153527080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_272
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325f2a0a441262cf0800000000000000
+      internalID: -277497748400179933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_273
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37484d0a499120d50800000000000000
+      internalID: 6701947321624855667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_274
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c5a22bb648464e0800000000000000
+      internalID: -1989319537305428980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_275
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c41aa3192a9ca460800000000000000
+      internalID: 7254342601001276612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_276
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aefd9f8cdaf8700800000000000000
+      internalID: 544845158632385053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_277
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ee83ebb509a7e60800000000000000
+      internalID: 7960834015038598676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_278
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9ed90a5632652b0800000000000000
+      internalID: -5596246567567890016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_279
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809014c995cf529c0800000000000000
+      internalID: -3952475636143945464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_280
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f932f423e753860800000000000000
+      internalID: 7509046708251369267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_281
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818d802e0754466e0800000000000000
+      internalID: -1845273596184176616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_282
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee7acd21517b8a90800000000000000
+      internalID: -7310624976631333144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_283
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a044535ea63fe340800000000000000
+      internalID: 4895191442325258402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_284
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f98ef47dc6edf90800000000000000
+      internalID: -6926979504834830553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_285
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e693c37e1abc1b540800000000000000
+      internalID: 5022018955724470638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_286
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d1edefa0bf1cf00800000000000000
+      internalID: 1135464605718289773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_287
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d35ac98b514af530800000000000000
+      internalID: 3889493089597412310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_288
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8598ac90ebbbf4aa0800000000000000
+      internalID: -6174510139219211944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_289
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a091781a5f33e80800000000000000
+      internalID: -8199940422406436304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_290
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daca36a96fe633110800000000000000
+      internalID: 1239456327888252077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_291
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024bedbf951727060800000000000000
+      internalID: 6949741806277800992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_292
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5095b7b2e3ee86300800000000000000
+      internalID: 245708130476579077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_293
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73097bd98a59fec60800000000000000
+      internalID: 7849657226963161143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_294
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a09399a97736f40800000000000000
+      internalID: 5720547457569983098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_295
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b4c31457aee2630800000000000000
+      internalID: 3904315716303342383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_296
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb34eb8d9522395c0800000000000000
+      internalID: -4209983457377500226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_297
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7902966f51648210800000000000000
+      internalID: 1334298451979143548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_298
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b96fc516d806a370800000000000000
+      internalID: 8333357876077619640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_299
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc322c75c3b3afb0800000000000000
+      internalID: -4637665530488931147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_300
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80ffe522af88b0a0800000000000000
+      internalID: -6865579705342365554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_301
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbf7b2a0cc8f8850800000000000000
+      internalID: 6381473955998858181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_302
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fb26a1480f7da00800000000000000
+      internalID: 781357510541098788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_303
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c285a3661ed0656d0800000000000000
+      internalID: -3002196839861954516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_304
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51903b0a61fdcbcc0800000000000000
+      internalID: -3693832306072286955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_305
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828af9d999b272440800000000000000
+      internalID: 4910941857445292072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_306
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df933b09f4d2cd590800000000000000
+      internalID: -7648188247428613635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_307
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c335fb891789ea0800000000000000
+      internalID: -5865813613791200207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_308
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c369d77e04c23250800000000000000
+      internalID: 5923012026364945347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_309
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027fa663d44a77760800000000000000
+      internalID: 7455608359667562272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_310
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49598f3c4b759d720800000000000000
+      internalID: 2871422671318979988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_311
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4443b9ac817d5d490800000000000000
+      internalID: -7722029484578491324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_312
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdde7d10a477aed0800000000000000
+      internalID: -2402823645140427334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_313
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a152f17b4daeab220800000000000000
+      internalID: 2502570742283969818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_314
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff7fa219f1a563f0800000000000000
+      internalID: -908141658712866823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_315
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d56b8250ad2c7a0800000000000000
+      internalID: -6358280008200987385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_316
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305055edbb9cfef50800000000000000
+      internalID: 6912965761763181827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_317
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030c6ac18d8bf6300800000000000000
+      internalID: 247619742861803568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_318
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddc177fb942d8bb0800000000000000
+      internalID: -4932245764610863650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_319
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5487753eafd86b2c0800000000000000
+      internalID: -4416186275894691771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_320
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081c105dca377c6b0800000000000000
+      internalID: -5276121252296015488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_321
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb03cc365d0aeb10800000000000000
+      internalID: 2011434847612111814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_322
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7be6133debd76210800000000000000
+      internalID: 1326270427094772602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_323
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f1c469860e233c0800000000000000
+      internalID: -4381192747675279598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_324
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e53bc21b397ec430800000000000000
+      internalID: 3805112029799986660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_325
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 15
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b297bb06df813f0800000000000000
+      internalID: -929714731148039266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super pacman tileset_326
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 15
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822a98750f8fde5a0800000000000000
+      internalID: -6490257776826539480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
