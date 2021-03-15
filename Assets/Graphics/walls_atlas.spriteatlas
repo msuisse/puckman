@@ -44,7 +44,7 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: b8b9c5eb1436f9b4fb4902d85edd6c57, type: 3}
-    totalSpriteSurfaceArea: 6000
+    totalSpriteSurfaceArea: 6400
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -62,6 +62,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 3981f3884da1a5c40a840468be3de5fc, type: 3}
   - {fileID: 21300000, guid: 839ed6a90b4d9474f8a0630d86f27f67, type: 3}
   - {fileID: 21300000, guid: 2630451b5aed7f040ae87b5759db6aa1, type: 3}
+  - {fileID: 21300000, guid: 2e12805b91a01034fa3f9486b23da5fd, type: 3}
   - {fileID: 21300000, guid: 19df5b2c04b2675408f017aad6778f05, type: 3}
   - {fileID: 21300000, guid: 6367682ec41dff247ba2f9741183d150, type: 3}
   - {fileID: 21300000, guid: cc15cd2e56cb41047b84044defb6bf1e, type: 3}
@@ -78,6 +79,7 @@ SpriteAtlas:
   - wall_W
   - wall_ENW
   - wall_NW
+  - wall_C
   - wall_EW
   - SW
   - wall_SENW
