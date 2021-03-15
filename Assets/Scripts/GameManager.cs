@@ -27,7 +27,6 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        initGameScores();
         Debug.Log(game_score);
 
     }
@@ -46,6 +45,7 @@ public class GameManager : MonoBehaviour
     {
         game_score = value;
         score_text.text = "Score: " + game_score.ToString();
+        Debug.Log(game_score);
     }
 
     public void ChangeScore(int amount)
