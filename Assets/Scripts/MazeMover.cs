@@ -31,7 +31,7 @@ public class MazeMover : MonoBehaviour
 
         Vector2 target_distance = target_pos - (Vector2)transform.position;
         Vector2 move_for_update = target_distance.normalized * distance_for_update;
-
+              
         //Do not go past the target if we should move past it
         if (target_distance.SqrMagnitude() < move_for_update.SqrMagnitude())
         {
