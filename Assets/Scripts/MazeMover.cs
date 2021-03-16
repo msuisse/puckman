@@ -13,7 +13,8 @@ public class MazeMover : MonoBehaviour
 
     // Start is called before the first frame update
     void Start() {
-        target_pos = transform.position;        
+        target_pos = transform.position;
+        velocity = GameManager.GetDefaultVelocity();
     }
 
     // Update is called once per frame
@@ -74,11 +75,10 @@ public class MazeMover : MonoBehaviour
     Boolean IsLegalMove(Vector2 pos)
     {
 
-        Debug.Log("pos " + pos);
-        Debug.Log(GameManager.walls_map.WorldToCell(pos));
-        
-
+        //Debug.Log("pos " + pos);
+        //Debug.Log(GameManager.walls_map.WorldToCell(pos));
         //Debug.Log(walls_map.GetTile(walls_map.WorldToCell(pos)));
+
         if (GameManager.walls_map.GetTile(GameManager.walls_map.WorldToCell(pos)) != null)
         {
             return false;

@@ -17,7 +17,22 @@ public class PucksEater : MonoBehaviour
         // When a pelletEater touch a pellet in the tilemap he eat it
         if (GameManager.pucks_map.GetTile(GameManager.pucks_map.WorldToCell(transform.position)) != null)
         {
-            game_manager.ChangeScore(10);
+            // TODO: Find a better way to check what type of bonus was picked up 
+            if(GameManager.pucks_map.GetSprite(GameManager.pucks_map.WorldToCell(transform.position)).name== "puck")
+            {
+                game_manager.ChangeScore(10);
+            }
+            else if (GameManager.pucks_map.GetSprite(GameManager.pucks_map.WorldToCell(transform.position)).name == "super_puck")
+            {
+                game_manager.ChangeScore(100);
+                // Make the player immune to ghost for X second and increase his speed
+            }
+            else
+            {
+                //Every other case are fruit, for now we have a single value for all fruits
+                game_manager.ChangeScore(200);
+            }
+                        
             // Delete the tile content
             game_manager.DeletePuckAt( (Vector3Int)GameManager.pucks_map.WorldToCell(transform.position));
         }

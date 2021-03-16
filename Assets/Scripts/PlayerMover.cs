@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerMover : MonoBehaviour
 {
     MazeMover mazeMover;
+
     // Start is called before the first frame update
     void Start()
     {

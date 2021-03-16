@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour
     static public Tilemap pucks_map { get; set; }
     static public Tilemap walls_map;
 
+    static private float default_velocity = 3f;
     int game_score = 0;
     Text score_text;
 
@@ -30,6 +31,12 @@ public class GameManager : MonoBehaviour
         Debug.Log(game_score);
 
     }
+
+    static public float GetDefaultVelocity()
+    {
+        return default_velocity;
+    }
+
     private void initGameScores()
     {
         game_score = 0;
