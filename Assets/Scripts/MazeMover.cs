@@ -31,7 +31,9 @@ public class MazeMover : MonoBehaviour
 
         Vector2 target_distance = target_pos - (Vector2)transform.position;
         Vector2 move_for_update = target_distance.normalized * distance_for_update;
-              
+
+        UpdateAnimationDirection(move_for_update);        
+
         //Do not go past the target if we should move past it
         if (target_distance.SqrMagnitude() < move_for_update.SqrMagnitude())
         {
@@ -48,6 +50,48 @@ public class MazeMover : MonoBehaviour
         }
     }
 
+    private void UpdateAnimationDirection(Vector2 current_movement)
+    {
+        //Update only if we are currently moving
+        if (current_movement.SqrMagnitude() > 0)
+        {
+            if (Mathf.Abs(current_movement.x) > Mathf.Abs(current_movement.y))
+            {
+                // Move West
+                if (current_movement.x < 0)
+                {
+                    transform.GetChild(0).transform.localScale = new Vector3(-1, 1, 1);
+                    transform.GetChild(0).transform.rotation = Quaternion.Euler(new Vector3(0, 0, 0));
+                    transform.GetChild(0).transform.localPosition = new Vector3(1, 0, 0);
+                }
+                // Move East
+                else
+                {
+                    transform.GetChild(0).transform.localScale = new Vector3(1, 1, 1);
+                    transform.GetChild(0).transform.rotation = Quaternion.Euler(new Vector3(0, 0, 0));
+                    transform.GetChild(0).transform.localPosition = new Vector3(0, 0, 0);
+                }
+            }
+            else
+            {
+                // Move Souht
+                if (current_movement.y < 0)
+                {                    
+                    transform.GetChild(0).transform.localScale = new Vector3(1, 1, 1);
+                    transform.GetChild(0).transform.rotation = Quaternion.Euler(new Vector3(0, 0, -90));
+                    transform.GetChild(0).transform.localPosition = new Vector3(0, 1, 0);
+                }
+                // Move North
+                else
+                {
+                    transform.GetChild(0).transform.localScale = new Vector3(1, 1, 1);
+                    transform.GetChild(0).transform.rotation = Quaternion.Euler(new Vector3(0, 0, 90));
+                    transform.GetChild(0).transform.localPosition = new Vector3(1, 0, 0);
+                }
+
+            }
+        }
+    }
 
     private void UpdateTargetPosition() {
 

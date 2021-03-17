@@ -13,6 +13,7 @@ public class GameManager : MonoBehaviour
     static private float default_velocity = 3f;
     int game_score = 0;
     Text score_text;
+    private int pucks_count;
 
 
     // Start is called before the first frame update
@@ -22,14 +23,34 @@ public class GameManager : MonoBehaviour
         pucks_map = GameObject.FindObjectOfType<PucksTilemap>().GetComponent<Tilemap>();
         initGameScores();
         score_text = GameObject.FindObjectOfType<Canvas>().GetComponentInChildren<Text>();
-    }
+        pucks_count = InitPucksCounter();
 
+
+    }
 
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(game_score);
+        if(pucks_count == 0)
+        {
+            Debug.Log("WIN");
+        }
 
+    }
+
+    private int InitPucksCounter()
+    {
+        int pucks = 0;
+        BoundsInt bounds = pucks_map.cellBounds;
+        TileBase[] allTiles = pucks_map.GetTilesBlock(bounds);
+        for (int i = 0; i < allTiles.Length; i++)
+        {
+            if (allTiles[i] != null && allTiles[i].name == "puck")
+            {
+                pucks++;
+            }
+        }
+        return pucks;
     }
 
     static public float GetDefaultVelocity()
@@ -62,7 +83,9 @@ public class GameManager : MonoBehaviour
     }
 
     public void DeletePuckAt(Vector3Int position)
-    {        
+    {
+        pucks_count--;
+        Debug.Log(pucks_count);
         pucks_map.SetTile(position, null);
     }
 }

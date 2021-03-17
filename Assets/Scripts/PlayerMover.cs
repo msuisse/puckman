@@ -31,9 +31,9 @@ public class PlayerMover : MonoBehaviour
         //Only Vertical or Horital movements allowed so with retrict it
         if (Mathf.Abs(player_direction.x) >= Mathf.Abs(player_direction.y))
         {
-            player_direction.y = 0;
+            player_direction.y = 0;           
         } else {
-            player_direction.x = 0;
+            player_direction.x = 0;            
         }
 
         mazeMover.SetNewDirection(player_direction.normalized);

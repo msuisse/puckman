@@ -613,6 +613,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c8dfa07f68d8f64a8bcbe8e84222c9e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  clip_list:
+  - {fileID: 8300000, guid: 55e4a66dd459f1b4f91f041749566df9, type: 3}
+  - {fileID: 8300000, guid: 33421dd655e9c724ea4621d29086b128, type: 3}
+  - {fileID: 8300000, guid: ca0e59ab3f75f6242a2c3e95d0c0b559, type: 3}
+  - {fileID: 8300000, guid: 0208d8aa0446e974491e88c9cc91e591, type: 3}
 --- !u!4 &1520175067
 Transform:
   m_ObjectHideFlags: 0
