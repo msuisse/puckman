@@ -23,7 +23,7 @@ public class PucksEater : MonoBehaviour
         if (GameManager.pucks_map.GetTile(GameManager.pucks_map.WorldToCell(transform.position)) != null)
         {            
             // TODO: Find a better way to check what type of bonus was picked up 
-            if(GameManager.pucks_map.GetSprite(GameManager.pucks_map.WorldToCell(transform.position)).name== "puck")
+            if(GameManager.pucks_map.GetSprite(GameManager.pucks_map.WorldToCell(transform.position)).name == "puck")
             {
                 game_manager.ChangeScore(10);
             }
