@@ -51,8 +51,9 @@ public class GameManager : MonoBehaviour
     {
         walls_map = GameObject.FindObjectOfType<WallsTilemap>().GetComponent<Tilemap>();
         pucks_map = GameObject.FindObjectOfType<PucksTilemap>().GetComponent<Tilemap>();
-        initGameScores();
+        
         score_text = GameObject.FindObjectOfType<Canvas>().GetComponentInChildren<Text>();
+        initGameScores();
 
         pucks_count = InitPucksCounter();
         time_to_bonus = time_between_bonus;
@@ -71,6 +72,8 @@ public class GameManager : MonoBehaviour
             LevelFinished();
         }
 
+
+
     }
 
     /// <summary>
@@ -88,12 +91,20 @@ public class GameManager : MonoBehaviour
         //Reset the player
         GameObject.FindObjectOfType<PlayerMover>().ResetPlayer();
 
-        //TODO Reset the enemies
+        //Reset the enemies
+        foreach (var enemy in GameObject.FindObjectsOfType<EnemyMover>())
+        {
+            enemy.ResetToStartingPos();
+        }
 
         //Reset the puck counter for the new level.
         pucks_count = InitPucksCounter();
 
-        //TODO New level should increase speed 
+        // Update speed of all entity
+        foreach (var obj in GameObject.FindObjectsOfType<MazeMover>())
+        {
+            obj.velocity = obj.velocity * 1.1f;
+        }
 
         level_counter++;
     }
@@ -118,6 +129,14 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    public void DeleteFruitAt(Vector3Int position)
+    {
+        DeleteTileContent(position);
+    }
+    public void DeleteSuperPuckAt(Vector3Int position)
+    {
+        DeleteTileContent(position);
+    }
 
     /// <summary>
     /// Delete the puck int the given tile.
@@ -126,7 +145,11 @@ public class GameManager : MonoBehaviour
     public void DeletePuckAt(Vector3Int position)
     {
         pucks_count--;
-        Debug.Log(pucks_count);
+        DeleteTileContent(position);
+    }
+
+    public void DeleteTileContent(Vector3Int position)
+    {
         pucks_map.SetTile(position, null);
     }
 

@@ -4,11 +4,14 @@ using UnityEngine;
 
 public class EnemyMover : MonoBehaviour
 {
+    public Vector2 Starting_position;
+
     MazeMover maze_mover;
     bool can_use_gate;
 
     private IChaseBehavior chase_behavior;
     List<MonoBehaviour> chase_behaviors = new List<MonoBehaviour>();
+    private PlayerMover player;
 
     // Start is called before the first frame update
     void Start()
@@ -16,6 +19,7 @@ public class EnemyMover : MonoBehaviour
         maze_mover = GetComponent<MazeMover>();
         maze_mover.OnEnterTile += OnEnterTile;
         maze_mover.velocity = GameManager.GetDefaultVelocity()-1;
+        
         
         // Retrieve the wanted chase behavior added in the editor
         CheckChaseBehavior();
@@ -28,9 +32,7 @@ public class EnemyMover : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
-
-        
+    {   
     }
 
     private void CheckChaseBehavior()
@@ -50,6 +52,15 @@ public class EnemyMover : MonoBehaviour
         }
     }
 
+    public void ResetToStartingPos()
+    {
+        transform.GetChild(0).transform.localScale = Vector3.one;
+        transform.GetChild(0).transform.rotation = Quaternion.Euler(Vector3.zero);
+        transform.GetChild(0).transform.localPosition = Vector3.zero;
+        transform.position = Starting_position;
+        maze_mover.SetNewDirection(Vector2.zero);
+        maze_mover.ResetTarget();
+    }
 
     void OnEnterTile()
     {

@@ -49,6 +49,9 @@ public class PlayerMover : MonoBehaviour
     /// </summary>
     public void ResetPlayer()
     {
+        transform.GetChild(0).transform.localScale = Vector3.one;
+        transform.GetChild(0).transform.rotation = Quaternion.Euler(Vector3.zero);
+        transform.GetChild(0).transform.localPosition = Vector3.zero;
         transform.position = GameManager.player_start_position;
         mazeMover.SetNewDirection(Vector2.zero);
         mazeMover.ResetTarget();

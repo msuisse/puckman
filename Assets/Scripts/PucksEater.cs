@@ -25,22 +25,27 @@ public class PucksEater : MonoBehaviour
             // TODO: Find a better way to check what type of bonus was picked up 
             if(GameManager.pucks_map.GetSprite(GameManager.pucks_map.WorldToCell(transform.position)).name == "puck")
             {
+                game_preloader.PlayMunch();
                 game_manager.ChangeScore(10);
+                // Delete the tile content
+                game_manager.DeletePuckAt((Vector3Int)GameManager.pucks_map.WorldToCell(transform.position));
             }
             else if (GameManager.pucks_map.GetSprite(GameManager.pucks_map.WorldToCell(transform.position)).name == "super_puck")
             {
                 game_manager.ChangeScore(100);
+                // Delete the tile content
+                game_manager.DeleteSuperPuckAt((Vector3Int)GameManager.pucks_map.WorldToCell(transform.position));
                 // Make the player immune to ghost for X second and increase his speed
             }
             else
             {
                 //Every other case are fruit, for now we have a single value for all fruits
+                game_preloader.PlayEatFruit();
                 game_manager.ChangeScore(200);
+                // Delete the tile content
+                game_manager.DeleteFruitAt((Vector3Int)GameManager.pucks_map.WorldToCell(transform.position));
             }
 
-            // Delete the tile content
-            game_preloader.PlayMunch();
-            game_manager.DeletePuckAt( (Vector3Int)GameManager.pucks_map.WorldToCell(transform.position));
         }
     }
 }

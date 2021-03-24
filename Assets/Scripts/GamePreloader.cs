@@ -11,7 +11,8 @@ public class GamePreloader : MonoBehaviour
     AudioClip start_sound;
     AudioClip waka_sound;
     AudioClip death_sound;
-    
+    AudioClip eat_fruit;
+
 
     // Start is called before the first frame update
     void Start()
@@ -22,6 +23,7 @@ public class GamePreloader : MonoBehaviour
         start_sound = Resources.Load<AudioClip>("Sounds/game_start") ;
         waka_sound = Resources.Load<AudioClip>("Sounds/munch_1");
         death_sound = Resources.Load<AudioClip>("Sounds/death_1");
+        eat_fruit = Resources.Load<AudioClip>("Sounds/eat_fruit");
     }
 
 
@@ -37,6 +39,14 @@ public class GamePreloader : MonoBehaviour
 
         // Sound finished load the maze
         SceneManager.LoadScene("SceneMainLevel");
+    }
+
+    public void PlayEatFruit()
+    {
+        if (!audio_source.isPlaying)
+        {
+            audio_source.PlayOneShot(eat_fruit);
+        }
     }
     public void PlayMunch()
     {
